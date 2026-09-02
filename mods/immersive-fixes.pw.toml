@@ -3,11 +3,11 @@ filename = "immersivefixes-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acae8554a8cd9c5088ef581fcae71d3ceecb555b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AWRXGq2t/versions/Usc2uYH1/immersivefixes-1.6.1.jar"
+hash-format = "sha512"
+hash = "80ecbb191f631fc8ec9d9996297c21d6f12c9a4720649fe6752eff94681c6da9665400b03c65aea0d03062184ab69221a2d7336d3877917a5fb6b4af7cc1b97d"
 
 [update]
-[update.curseforge]
-file-id = 8494332
-project-id = 1326199
+[update.modrinth]
+mod-id = "AWRXGq2t"
+version = "Usc2uYH1"

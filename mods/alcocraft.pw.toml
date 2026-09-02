@@ -3,11 +3,11 @@ filename = "alcocraftplus-1.20-2.2.0-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4c7e71be86aaabf3bd9f685695fed57c34994deb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6t2MdNbo/versions/I08Mqu4B/alcocraftplus-1.20-2.2.0-forge.jar"
+hash-format = "sha512"
+hash = "72a17e0dfc3d949765cafaf91015e76b5b5a225e3f5686427ad3a01b3560eaba954bcad924873f4aa4add8adcedff90e9f2a2742a27da27bcefa77c96535b5c1"
 
 [update]
-[update.curseforge]
-file-id = 8250923
-project-id = 847059
+[update.modrinth]
+mod-id = "6t2MdNbo"
+version = "I08Mqu4B"

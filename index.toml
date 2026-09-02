@@ -338,7 +338,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/alcocraft.pw.toml"
-hash = "1ea864c6c0176ae6ebf4c3b541e789a0c0a0fd673a00cf39457a2591149936ef"
+hash = "e534d2259026449f102807cb97292f36445761e208c6ab11cd459eb808c4084b"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "3519d01e4490de15f682c67333b67bd4b7057ba25937d9aaa517c76854f73ef7"
+hash = "5e9d7c8fe15e7342aee0070e7e6dbf24659fe6d44fdc06c161f39830a98dce50"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-fixes.pw.toml"
-hash = "ba8932cf058f3126e06593c22641c788c3bc3878231c0e80e61183eddea92d40"
+hash = "4e36e92270521aad6409d1751510d8e80a1dc65136836f2565f2a7375bf457d5"
 metafile = true
 
 [[files]]
