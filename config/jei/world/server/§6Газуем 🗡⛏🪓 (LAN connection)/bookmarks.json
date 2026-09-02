@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:blastbrick\"}"},
-  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:redstone\"}"},
-  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:slag\"}"},
-  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:windmill_blade\"}"},
-  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:dynamo\"}"}
-]

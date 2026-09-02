@@ -81,18 +81,6 @@ file = "config/immersivegeology-client.toml"
 hash = "92b72abc8a1539f1ee5807dd4d833f7e8c3a2b8f4d2ec158a1a4a3a6bb04859a"
 
 [[files]]
-file = "config/inventoryprofilesnext/[fdfd&&1a2c&f732]&25565/prev-villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/[fdfd&&1a2c&f732]&25565/villager-trading-config.json"
-hash = "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "c0dc0adf5641c0e7dcef8f032fda49ee0fed7bb71356e3a72b50b43eab9c7297"
 
@@ -103,18 +91,6 @@ hash = "42ca2570e3fba46d904267126a0107f94e60015e4cba549cce043b9647722336"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "0007f981ddd9d7b957160699e6033a23fbe605ce8da2ec6186ca5e1f4882e01c"
-
-[[files]]
-file = "config/inventoryprofilesnext/localhost&25565/lockSlots.txt"
-hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
-
-[[files]]
-file = "config/inventoryprofilesnext/localhost&25565/villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -167,34 +143,6 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "bd31496e0acece79ca8c20e27cb1f5f73c903d03420d2c957b346b8c139e701a"
-
-[[files]]
-file = "config/jei/world/local/New World/lookupHistory.ini"
-hash = "edb00fa3ad487cab68853c87b7f99c4ce719edabef7c69d32c11ae12c9b807ce"
-
-[[files]]
-file = "config/jei/world/server/A Minecraft Server (LAN connection)/bookmarks.json"
-hash = "ca1f68e4906c7aab1986b5b226a793999dc812dd183c7c364a284374a4c242fc"
-
-[[files]]
-file = "config/jei/world/server/A Minecraft Server (LAN connection)/lookupHistory.ini"
-hash = "44574ba3d7e8667e5ba4d9bb5a1b3355bc8a9d49eb95caa810c5593aff9dba42"
-
-[[files]]
-file = "config/jei/world/server/§6Газуем 🗡⛏🪓 (LAN connection)/bookmarks.json"
-hash = "cfe39e6fa69d24df2db14b0bed5f8c3508126c20412be05c278fbb27dea25257"
-
-[[files]]
-file = "config/jei/world/server/§6Газуем 🗡⛏🪓 (LAN connection)/lookupHistory.ini"
-hash = "2aefbf770fdcd3d7d361036b8e1479c279b028393ba767459898788e5a6dcccb"
-
-[[files]]
-file = "config/jei/world/server/Бурильня (localhost)/bookmarks.json"
-hash = "0f097450e359efd1d3007ce37053e47dc9347631c5770f22ec0b8d49f12537ab"
-
-[[files]]
-file = "config/jei/world/server/Бурильня (localhost)/lookupHistory.ini"
-hash = "4f054b713faf22b92000fe285ef6eeeafd8633b23d56a292e983c565f86b9b05"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -452,6 +400,11 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ed086cdfde6ba4bb175468a76f3df3b9517aea3fe95b09bed0f1fa70f7caeb6a"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
 metafile = true
@@ -474,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "6d134e5d39ee704f9ccbb08c1ead31eda8bcd2cbc46853fd19329a97d814e4f3"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
@@ -515,7 +473,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c7d38bde9d8255b52786ab99e29ca0198fb0e407af3e638fad6a7807070361b8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "91f96adf0093977f1f614ede1847516d54f41ec0058e24662ba748a19eae41d1"
