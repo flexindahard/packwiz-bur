@@ -1,0 +1,13 @@
+name = "Immersive Geology"
+filename = "ImmersiveGeology-0.8.3-b4584.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73d58f792cde4e9788c8e5c13d02d3de4cd53877"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7648210
+project-id = 370614

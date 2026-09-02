@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersivegeology:hammer_stone\",tag:{Damage:0}}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersivegeology:raw_fire_clay\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersivegeology:prospector_kit\",tag:{Damage:0}}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:alloybrick\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersivegeology:dirty_crushed_ore_magnetite\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersivegeology:dirty_crushed_ore_hematite\"}"},
+  {"type":"recipe","value":"immersiveengineering:alloy#immersiveengineering:alloysmelter/bronze#item_stack\u0026immersivegeology:ingot_bronze"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:blastbrick\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"immersiveengineering:cokebrick\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"sophisticatedbackpacks:backpack\"}"}
+]
