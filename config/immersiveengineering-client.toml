@@ -7,7 +7,7 @@ showTextOverlay = true
 #Range: 1 ~ 32
 manualGuiScale = 4
 #Set this to true if you suffer from bad eyesight. The Engineer's manual will be switched to a bold and darker text to improve readability.
-badEyesight = false
+badEyesight = true
 #Set this to false to change fluid recipes in the manual to use decimals on buckets instead of fractions
 fluidFractions = true
 #Controls if item tooltips should contain the tags names of items. These tooltips are only visible in advanced tooltip mode (F3+H)
@@ -16,7 +16,7 @@ tagTooltips = true
 #Range: 0.0 ~ 1.7976931348623157E308
 increasedTileRenderdistance = 1.5
 #Set this to false to hide the update news in the manual
-showUpdateNews = true
+showUpdateNews = false
 #Allows revolvers and other IE items to look properly held in 3rd person. This uses a coremod. Can be disabled in case of conflicts with other animation mods.
 fancyItemHolding = true
 #Set to false to disable the stencil buffer. This may be necessary on older GPUs.

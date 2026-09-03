@@ -1,7 +1,7 @@
 {
   "showSkinPreviewOverlay": false,
-  "overlayPosition": "BOTTOM_RIGHT",
-  "previewScale": 30,
+  "overlayPosition": "BOTTOM_LEFT",
+  "previewScale": 20,
   "guiScale": 1,
   "enablePlayerPreviewCustomization": false,
   "hudOverlayRotation": 20.0,
