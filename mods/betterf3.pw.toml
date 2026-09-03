@@ -1,7 +1,10 @@
 name = "BetterF3"
 filename = "BetterF3-7.0.2-Forge-1.20.1.jar"
 side = "both"
+
+[option]
 optional = "true"
+description = "A mod that improves the default f3 screen and makes it much cleaner."
 
 [download]
 hash-format = "sha1"
