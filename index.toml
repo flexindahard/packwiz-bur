@@ -18,7 +18,7 @@ hash = "f3275325758f353b953db59c1dfd97751779f253131e39d8c74a6edc811ec17a"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
-hash = "049c486fbf843958a416a78ec5920693594ac5b3caa0aa4c25b647bca44ef2b4"
+hash = "9354837713ef693360fa46ae9e9df2271e24eda3f5da49a507e414dba110f733"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "15867e563e2d6662d7134abddf1139465666f2734551ae1b406aa4c7a8df68ce"
 metafile = true
 
 [[files]]
