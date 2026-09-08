@@ -1,0 +1,11 @@
+name = "Manual Font"
+filename = "manual-font.zip"
+side = "client"
+
+[download]
+url = "https://github.com/flexindahard/packwiz-bur/releases/download/custom/manual-font.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8ab3b07892dde4e67f18565233871699c91cec955a06f1f962623a1575b5c02d"

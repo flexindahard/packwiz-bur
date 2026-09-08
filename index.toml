@@ -161,6 +161,21 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "custom/manual-font.pw.toml"
+hash = "66d33cab44dd92e15a834644e69a2c7c4cf0d48b63949443d3eec6fbda525dfd"
+metafile = true
+
+[[files]]
+file = "custom/manual-ru.pw.toml"
+hash = "d0b3cc3a8d1360247fe3eb477c7bdf493587d65bbfce895fd623467ea946e86e"
+metafile = true
+
+[[files]]
+file = "custom/unique-dark-ie-support.pw.toml"
+hash = "7382b023f16a4380023590cad7a41b651dbdc1847851f0a10817cf1453a25dad"
+metafile = true
+
+[[files]]
 file = "kubejs/client_scripts/HideItemsClient.js"
 hash = "96ba3b82da1c9e354b2a1447aadb6cd9c90b2c5d1f34e22d77f5b006ba5fa344"
 
@@ -181,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "cdf525757ba9d520c9ce031789cc7c7ce49d8c96b46acafd2417097f022c44cc"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
