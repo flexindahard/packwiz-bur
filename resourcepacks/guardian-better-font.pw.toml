@@ -1,0 +1,13 @@
+name = "Guardian better font"
+filename = "§eGuardian better font§0_§8§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZ1UvdUX/versions/mdQL6v3l/%C2%A7eGuardian%20better%20font%C2%A70_%C2%A78%C2%A70.zip"
+hash-format = "sha512"
+hash = "7eb87c4a5a79a33cdceea6adad611a07fd0a884e844c0c8f7a60404f5d64dc77b3aa5ab287223b53e19aa7446a721c91adc35bc1e34df1da0a30fb477d37b823"
+
+[update]
+[update.modrinth]
+mod-id = "WZ1UvdUX"
+version = "mdQL6v3l"
