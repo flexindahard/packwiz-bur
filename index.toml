@@ -355,6 +355,11 @@ hash = "c7d38bde9d8255b52786ab99e29ca0198fb0e407af3e638fad6a7807070361b8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/guardian-better-font.pw.toml"
+hash = "e2b4534839b49c999cc936ef04a14903ad4efeb2c4bcf0cf7f8527f369be50a4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/manual-font.pw.toml"
 hash = "66d33cab44dd92e15a834644e69a2c7c4cf0d48b63949443d3eec6fbda525dfd"
 metafile = true
@@ -367,4 +372,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/unique-dark-ie-support.pw.toml"
 hash = "7382b023f16a4380023590cad7a41b651dbdc1847851f0a10817cf1453a25dad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "ee565e768b63bd488c7a41b34da67bf340ad3308b1eb80f8c11c7ff27e215ebf"
 metafile = true
