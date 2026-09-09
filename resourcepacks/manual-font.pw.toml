@@ -2,6 +2,11 @@ name = "Manual Font"
 filename = "manual-font.zip"
 side = "client"
 
+[option]
+optional = true
+description = "Guardian шрифт для руководства Immersive Engineering."
+default = true  # true = включён по умолчанию, false = выключен
+
 [download]
 url = "https://github.com/flexindahard/packwiz-bur/releases/download/custom/manual-font.zip"
 

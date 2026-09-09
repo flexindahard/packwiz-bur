@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 description = "Нейтральный тёмный стиль интерфейса, очень близкий к Vanilla."
-default = false  # true = включён по умолчанию, false = выключен
+default = true  # true = включён по умолчанию, false = выключен
 
 [download]
 url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/SEAHWiIS/Default-Dark-Mode-1.20-2023.7.0.zip"

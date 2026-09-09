@@ -1,0 +1,16 @@
+name = "Default Dark Tweaks"
+filename = "default-dark-tweaks.zip"
+side = "client"
+
+[option]
+optional = true
+description = "Совместимость модов из сборки с ресурс-паком Default Dark Mode. Если вы не планируете использовать Default Dark Mode, уберите галочку."
+default = true
+
+[download]
+url = "https://github.com/flexindahard/packwiz-bur/releases/download/custom/default-dark-tweaks.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "960a9380096addcbe185ba5ed8fc0e075735b64805da100e6a7b5c5e6afc0dfe"

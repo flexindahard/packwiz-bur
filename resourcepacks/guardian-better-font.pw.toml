@@ -4,8 +4,8 @@ side = "client"
 
 [option]
 optional = true
-description = "Плавный шрифт везде."
-default = false
+description = "Шрифт с повышенным разрешением для всего интерфейса."
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/WZ1UvdUX/versions/mdQL6v3l/%C2%A7eGuardian%20better%20font%C2%A70_%C2%A78%C2%A70.zip"

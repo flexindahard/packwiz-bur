@@ -74,7 +74,7 @@ hash = "cc9db08ca3f44714cf14117fb1772eed88c9cc3272fea6d17e657292c8799fe0"
 
 [[files]]
 file = "config/quickskin-client.json"
-hash = "eaef57f2b06fb0c3b3b2d6ac0673a96e44988904d3b42f6139e14652a7401b2d"
+hash = "39aa7af23ee5e0d8f61bc2ee0432213da2caf0ca8fe525334382614db79e7084"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
@@ -357,20 +357,25 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "16234f66743aad3055a0a39e5223137aeb18be7c4b4a185e4812f9bdbc2b32f3"
+hash = "43e11ab4ac27bc250b2d1b1864d3a83dc27b888da0ab2a80d9c7387b31b717d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-tweaks.pw.toml"
+hash = "d3f59c2efe1517ef235dd363f4d0c2052228d3d05037dbc0882bd9855d1b0c98"
 metafile = true
 
 [[files]]
 file = "resourcepacks/guardian-better-font.pw.toml"
-hash = "c53756804d069e9b5720b80c205a584c3a23bba1f0571ea7a473945032abee09"
+hash = "fbce757e07a33dec9ce4b1017fcf98df7dd9e83da039dd13d18e66dc7f3ce8d1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/manual-font.pw.toml"
-hash = "66d33cab44dd92e15a834644e69a2c7c4cf0d48b63949443d3eec6fbda525dfd"
+hash = "02e5472a9072eefc7abf08b6d20ae9bbd3e534af789130d8cb404a4fee91d948"
 metafile = true
 
 [[files]]
 file = "resourcepacks/manual-ru.pw.toml"
-hash = "d0b3cc3a8d1360247fe3eb477c7bdf493587d65bbfce895fd623467ea946e86e"
+hash = "0b0354b2abedf94e2c829711775603b7ffbf216c43f3edc56f1c8106dfb87359"
 metafile = true

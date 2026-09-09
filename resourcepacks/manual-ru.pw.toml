@@ -2,6 +2,11 @@ name = "Manual Ru"
 filename = "manual-ru.zip"
 side = "client"
 
+[option]
+optional = true
+description = "Перевод руководства Immersive Engineering на русский язык."
+default = true  # true = включён по умолчанию, false = выключен
+
 [download]
 url = "https://github.com/flexindahard/packwiz-bur/releases/download/custom/manual-ru.zip"
 
