@@ -2,6 +2,11 @@ name = "Guardian better font"
 filename = "§eGuardian better font§0_§8§0.zip"
 side = "client"
 
+[option]
+optional = true
+description = "Плавный шрифт везде."
+default = false
+
 [download]
 url = "https://cdn.modrinth.com/data/WZ1UvdUX/versions/mdQL6v3l/%C2%A7eGuardian%20better%20font%C2%A70_%C2%A78%C2%A70.zip"
 hash-format = "sha512"

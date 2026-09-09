@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/appleskin-client.toml"
-hash = "15bb3ea8645883431446561779f789aee34b0963a8d894253d8bf3af84573391"
+hash = "634b7ab61176ce59b2a5d006df88128c76ae929cca18cdabd9b66bc5ef876e50"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -157,10 +157,6 @@ file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 
 [[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/client_scripts/HideItemsClient.js"
 hash = "96ba3b82da1c9e354b2a1447aadb6cd9c90b2c5d1f34e22d77f5b006ba5fa344"
 
@@ -300,6 +296,11 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/no-shade.pw.toml"
+hash = "d88e5d4efd6a807703f1b6cdce400f2b9cfceb920c178e5f81474319ddce23d8"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "6d01bc9f8f0b705c9d8a8020849393145648602dd2bfb2dbc28b36d965a16a5a"
 metafile = true
@@ -355,8 +356,13 @@ hash = "c7d38bde9d8255b52786ab99e29ca0198fb0e407af3e638fad6a7807070361b8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "16234f66743aad3055a0a39e5223137aeb18be7c4b4a185e4812f9bdbc2b32f3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/guardian-better-font.pw.toml"
-hash = "e2b4534839b49c999cc936ef04a14903ad4efeb2c4bcf0cf7f8527f369be50a4"
+hash = "c53756804d069e9b5720b80c205a584c3a23bba1f0571ea7a473945032abee09"
 metafile = true
 
 [[files]]
@@ -367,14 +373,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/manual-ru.pw.toml"
 hash = "d0b3cc3a8d1360247fe3eb477c7bdf493587d65bbfce895fd623467ea946e86e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unique-dark-ie-support.pw.toml"
-hash = "d950ed159c35c9cc45b28afeca6f797ba23713b2132e34fabfbcc407c031a2b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unique-dark.pw.toml"
-hash = "ee565e768b63bd488c7a41b34da67bf340ad3308b1eb80f8c11c7ff27e215ebf"
 metafile = true

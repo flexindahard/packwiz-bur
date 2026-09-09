@@ -1,0 +1,18 @@
+name = "No-Shade"
+filename = "NoShade-forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[option]
+optional = true
+description = "Убирает все тени за текстом в игре, улучшает читабельность. Может повысить fps на экранах с большим кол-вом текста."
+default = false
+
+[download]
+hash-format = "sha1"
+hash = "cceb9e00ac398e1a41b55f3fdb5393ae503fe03f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4923870
+project-id = 946087
